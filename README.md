@@ -41,7 +41,7 @@ An AI-powered Data Analyst Agent built using **n8n, OpenAI, Google Sheets, and G
 - AI agent with memory
 - Workflow automation using n8n
 
-## 📊 Example Analysis
+## 📊 Analysis
 
 The agent analyses customer information using:
 
