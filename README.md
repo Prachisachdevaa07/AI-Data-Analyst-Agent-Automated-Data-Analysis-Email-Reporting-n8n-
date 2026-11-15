@@ -6,19 +6,8 @@ The objective of this project is to demonstrate how AI Agents can automate data 
 
 **Built with:** n8n | OpenAI | Google Sheets | Gmail
 
-
 ### n8n AI Agent Workflow
 <img width="395" height="254" alt="workflow" src="https://github.com/user-attachments/assets/fba2c837-4b76-459d-a43c-cde4a15cfacc" />
-
-# 🤖 AI Data Analyst Agent – Automated Data Analysis & Email Reporting
-
-An AI-powered Data Analyst Agent built using **n8n, OpenAI, Google Sheets, and Gmail**. It allows users to interact with spreadsheet data through a chat interface, perform customer data analysis, and receive automated analytical reports via email.
-
-## 📸 Project Workflow
-
-### n8n AI Agent Workflow
-
-![AI Data Analyst Agent Workflow](https://github.com/user-attachments/assets/ebcdaa11-4c80-476e-a26d-ce00a6b5491a)
 
 ## 🛠️ Tools & Technologies
 
